@@ -5,7 +5,7 @@ and level up to unlock more difficult vocabulary.
 
 <img width="397" height="420" alt="image" src="https://github.com/user-attachments/assets/5e3b512a-84f4-4d3c-bc5b-47d68a4ff567" />
 A procedurally generated map, with @ indicating the player position, E enemies, and ! HP potions.
-
+<br><br>
 <img width="436" height="188" alt="image" src="https://github.com/user-attachments/assets/908ed02b-1e52-4712-afd6-18e542642b73" />
 Battle view
 
