@@ -1,4 +1,4 @@
-# 漢字修行
+# 漢字修行　（かんじしゅぎょう）
 A terminal-based Japanese vocabulary roguelike built with **Textual**.
 Explore procedurally generated maps, fight enemies by typing correct readings,
 and level up to unlock more difficult vocabulary.
