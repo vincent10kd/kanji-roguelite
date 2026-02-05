@@ -1,7 +1,8 @@
 # 漢字修行　（かんじしゅぎょう）
 A terminal-based Japanese vocabulary roguelike built with **Textual**.
 Explore procedurally generated maps, fight enemies by typing correct readings,
-and level up to unlock more difficult vocabulary.
+and level up to unlock more difficult vocabulary. The game prioritizes frequently used modern words, 
+using a frequency-based difficulty tier system based on news articles, Twitter, and Aozora Bunko.
 
 <img width="397" height="420" alt="image" src="https://github.com/user-attachments/assets/5e3b512a-84f4-4d3c-bc5b-47d68a4ff567" />
 A procedurally generated map, with @ indicating the player position, E enemies, and ! HP potions.
@@ -28,7 +29,7 @@ This game uses **JMdict** for readings and meanings.
 It's in: 
 data/jmdict.sqlite
 ```
-JMdict is Â© the Electronic Dictionary Research and Development Group and is used
+JMdict is © the Electronic Dictionary Research and Development Group and is used
 under the **Creative Commons Attribution-ShareAlike** license.
 
 ## Run
